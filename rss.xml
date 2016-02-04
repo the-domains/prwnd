@@ -4,7 +4,7 @@
         <description><![CDATA[PRWND]]></description>
         <link>https://thegrid.ai/prwnd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 20:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 20:46:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prwnd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/prwnd/8d113f3b-71cc-423e-9953-2359bb0f0a1d/index.html</link>
             <guid isPermaLink="false">8d113f3b-71cc-423e-9953-2359bb0f0a1d</guid>
             <pubDate>Thu, 04 Feb 2016 20:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/923f8eff-b064-4793-8db3-7a01ff67e14d.jpg">]]></description>
-            <link>https://thegrid.ai/prwnd/26f7c622-626a-4a5a-a102-e918d0620305/index.html</link>
-            <guid isPermaLink="false">26f7c622-626a-4a5a-a102-e918d0620305</guid>
-            <pubDate>Thu, 04 Feb 2016 20:26:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
