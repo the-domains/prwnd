@@ -1,7 +1,7 @@
 name: PRWND
 favicon: null
-layout_spectrum: 0.5374252654146403
-typography_spectrum: 0.2914692016784102
+layout_spectrum: 0.72537
+typography_spectrum: 0.5056
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#f0d6c7'
     - '#5c7673'
   brandStrength: 0.9642508961260319
-  lightness: 0.796979001024738
-  saturation: 0.23867500969208777
-  rhythmicContrast: 0.3061003629118204
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
